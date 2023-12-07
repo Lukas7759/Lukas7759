@@ -5,6 +5,8 @@ English:
 🚀 I enjoy listening to music across all genres while coding. On a daily basis, I use a Lenovo Chromebook 300e with Linux Debian, an iPhone 8+, and an iPad Air 2.
 
 🌐 Check out my projects on my website: https://tiny.pl/c8d9v
+
+
 Русский (Russian):
 👋 Привет, меня зовут Лукаш, мне 15 лет, и я живу в Польше уже 12 лет, родом из Львова. Меня увлекает HTML и создание веб-сайтов с использованием инструментов no-code. В настоящее время изучаю Python. 🐍
 
