@@ -1,4 +1,5 @@
 English:
+
 👋 Hello, I'm Łukasz, a 15-year-old living in Poland for the past 12 years, originally from Lviv. I'm passionate about HTML and creating websites using no-code tools. Currently learning Python. 🐍
 
 🚀 I enjoy listening to music across all genres while coding. On a daily basis, I use a Lenovo Chromebook 300e with Linux Debian, an iPhone 5s, and an iPad Air 2.
