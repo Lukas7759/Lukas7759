@@ -5,7 +5,7 @@
 
 🚀 I enjoy listening to music across all genres while coding. On a daily basis, I use a MacBook Air 2014 macOS Catalina, a Chromebook Lenovo 300e, Mi Band 7, iPhone 8+, and an iPad Air 2 with an Apple Pencil. Additionally, I use Budio headphones.
 
-💻 Please note that my previous site is down due to server overload. I have started a course in cybersecurity. Check out my new projects on [my new website](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
+💻 Please note that my previous site is down due to server overload. I have started a course in cybersecurity, I'm learning. Check out my new projects on [my new website](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
 
 🌐 For more of my work, visit my other projects: [My Projects](https://sites.google.com/view/portfolioblogvsio/home?authuser=0).
 
@@ -17,7 +17,7 @@
 
 🚀 Lubię słuchać muzyki wszystkich gatunków podczas kodowania. Na co dzień używam MacBook Air 2014 macOS Catalina, Chromebook Lenovo 300e, Mi Band 7, iPhone'a 8+, iPad'a Air 2 z Apple Pencilem oraz słuchawek Budio.
 
-💻 Zwróć uwagę, że moja poprzednia strona nie działa z powodu przeciążenia serwera. Rozpocząłem kurs o cyberbezpieczeństwie. Sprawdź moje nowe projekty na [mojej nowej stronie](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
+💻 Zwróć uwagę, że moja poprzednia strona nie działa z powodu przeciążenia serwera. Rozpocząłem kurs o cyberbezpieczeństwie, uczę się . Sprawdź moje nowe projekty na [mojej nowej stronie](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
 
 🌐 Zapraszam również do odwiedzenia mojej strony, gdzie znajdziesz wszystkie moje inne projekty: [Moje Projekty](https://sites.google.com/view/portfolioblogvsio/home?authuser=0).
 
