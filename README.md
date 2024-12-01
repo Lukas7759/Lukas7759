@@ -1,3 +1,4 @@
+Rozumiem, oto zaktualizowany opis:
 
 **English:**
 
@@ -21,3 +22,4 @@
 
 🌐 Zapraszam również do odwiedzenia mojej strony, gdzie znajdziesz wszystkie moje inne projekty: [Moje Projekty](https://sites.google.com/view/portfolioblogvsio/home?authuser=0).
 
+Mam nadzieję, że ta wersja jest odpowiednia! Czy jest coś jeszcze, co chciałbyś zmienić lub dodać? 😊
