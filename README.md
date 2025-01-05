@@ -7,7 +7,6 @@
 
 💻 Please note that my previous site is down due to server overload. I have started a course in cybersecurity, I'm learning. Check out my new projects on [my new website](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
 
-🌐 For more of my work, visit my other projects: [My Blog](https://sites.google.com/view/portfolioblogvsio/home?authuser=0).
 
 ---
 
@@ -19,5 +18,4 @@
 
 💻 Zwróć uwagę, że moja poprzednia strona nie działa z powodu przeciążenia serwera. Rozpocząłem kurs o cyberbezpieczeństwie, uczę się . Sprawdź moje nowe projekty na [mojej nowej stronie](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
 
-🌐 Zapraszam również do odwiedzenia mojej strony, gdzie znajdziesz wszystkie moje inne projekty: [Mój blog](https://sites.google.com/view/portfolioblogvsio/home?authuser=0).
 
