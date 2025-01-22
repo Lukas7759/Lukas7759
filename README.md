@@ -8,6 +8,8 @@
 💻 Please note that my previous site is down due to server overload. I have started a course in cybersecurity, I'm learning. Check out my new projects on [my new website](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
 
 
+💻 I started working on a new game, which I put a lot of work into, I encourage you to see this game [my new game](xawery 08.fwh.is)
+
 ---
 
 **Polski (Polish):**
@@ -18,4 +20,7 @@
 
 💻 Zwróć uwagę, że moja poprzednia strona nie działa z powodu przeciążenia serwera. Rozpocząłem kurs o cyberbezpieczeństwie, uczę się . Sprawdź moje nowe projekty na [mojej nowej stronie](https://sites.google.com/view/x2gameio/strona-główna?authuser=2&read_current=1).
 
+
+💻 Zacząlem prace nad nową grą , w którą wkładam dużo  pracy , zachęcam do zobacznia tej gry 
+[moja nowa gra](xawery08.ct.ws)
 
